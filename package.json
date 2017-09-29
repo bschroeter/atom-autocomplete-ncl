@@ -1,0 +1,24 @@
+{
+  "name": "autocomplete-ncl",
+  "main": "./lib/main",
+  "version": "0.1.0",
+  "description": "NCL autocomplete",
+  "keywords": [
+    "autocomplete",
+    "provider",
+    "ncl"
+  ],
+  "repository": "https://github.com/bschroeter/atom-autocomplete-ncl",
+  "author": "bschroeter",
+  "license": "BSD-3",
+  "engines": {
+    "atom": ">=1.15.0 <2.0.0"
+  },
+  "providedServices": {
+    "autocomplete.provider": {
+      "versions": {
+        "2.0.0": "getProvider"
+      }
+    }
+  }
+}
