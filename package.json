@@ -1,5 +1,5 @@
 {
-  "name": "autocomplete-ncl",
+  "name": "atom-autocomplete-ncl",
   "main": "./lib/main",
   "version": "0.3.0",
   "description": "NCL autocomplete",
